@@ -70,7 +70,7 @@ body {
 }
 
 
-/* ANSWERS/RIGHT SECTION */
+/* ANSWERS SECTION */
 .answer-section {
   width: 100%;
   display: flex;
@@ -95,15 +95,6 @@ button.answer-button {
   border: 5px solid #234668;
   cursor: pointer;
 }
-
-.correct {
-  background-color: #2f922f;
-}
-
-.incorrect {
-  background-color: #ff3333;
-}
-
 button:hover {
   background-color: #555e7d;
 }
